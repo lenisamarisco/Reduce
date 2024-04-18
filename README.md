@@ -1,3 +1,1 @@
-# Leni
-# tip-pool
 # Reduce
